@@ -28,11 +28,6 @@
 
 ---
 
-## 🛠️ Skills & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
 
 ### Currently Learning
 
